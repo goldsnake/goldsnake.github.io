@@ -1,0 +1,20 @@
+# git 설치
+opkg install git
+
+# git http 설치
+opkg install git-http
+
+
+git - 2.25.1-1
+git-http - 2.25.1-1
+
+
+#비밀번호 저장 : git config credential.helper store
+$ git config credential.helper store
+$ git push http://example.com/repo.git
+Username: <type your username>
+Password: <type your password>
+
+[several days later]
+$ git push http://example.com/repo.git
+[your credentials are used automatically]

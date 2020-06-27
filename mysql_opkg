@@ -1,8 +1,10 @@
 
-https://hqt.ro/how-to-install-mariadb-server-phpmyadmin-on-entware/
+https://hqt.ro/how-to-install-mariadb-server-phpmyadmin-on-entware
 
 
 opkg install mariadb-server mariadb-server-extra mariadb-client mariadb-client-extra
+opkg install php7-mod-mysqli php7-mod-mbstring php7-mod-json php7-mod-session php7-mod-ctype
+
 mysql_install_db --force
 
 mysqld_safe --skip-grant-tables &

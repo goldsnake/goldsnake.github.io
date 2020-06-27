@@ -30,3 +30,16 @@ vi  /jffs/scripts/firewall-start
 > grant all privileges on *.* to 'root'@'%' identified by '비밀번호';
 
 > flush privileges;
+
+codeigniter rewrite
+#단독
+url.rewrite-once = (
+        "^/+(captcha|images|include).*" => "$0",
+        "^(.*)$" => "/index.php/$1 [QSA,L]" 
+)
+
+#sub
+url.rewrite-once = (                            
+        "^/+(captcha|images|include).*" => "$0",
+        "^/ci/(.*)$" => "/ci/index.php/$1 [QSA,L]"
+)   

@@ -1,0 +1,26 @@
+opkg install mariadb-server mariadb-server-extra mariadb-client mariadb-client-extra
+mysql_install_db --force
+
+mysqld_safe --skip-grant-tables &
+
+mysql -u root -p
+
+
+
+FLUSH PRIVILEGES;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '패스워드';
+
+FLUSH PRIVILEGES;
+
+/opt/etc/init.d/S70mysqld start
+
+/opt/etc/mysql/conf.d/50-server.cnf
+bind adress 0.0.0.0
+
+vi  /jffs/scripts/firewall-start
+
+
+
+> grant all privileges on *.* to 'root'@'%' identified by '비밀번호';
+
+> flush privileges;

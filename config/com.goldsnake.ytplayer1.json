@@ -1,0 +1,23 @@
+{
+    "mainId": "ca-app-pub-4867807891565171/5470850429",
+    "bannerId": "ca-app-pub-4867807891565171/8994537745",
+    "dialogId": "ca-app-pub-4867807891565171/6975503781",
+    "listMode": "file",
+    "marketVersion": "",
+    "onlyMyAd": "1",
+    "package": "com.goldsnake.ytplayer1",
+    "pageSize": "20",
+    "restSaveToken": "http://ltkblue.dothome.co.kr/app/saveToken",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "dbType": "github",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "testDeviceList": [
+        {
+            "deviceId": "DACCBE501231C13E81966C541B0FB175"
+        },
+        {
+            "deviceId": "AB5AE6965CDB1AC63B57AD8D7FE2571C"
+        }
+    ]
+}

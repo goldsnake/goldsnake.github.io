@@ -9,7 +9,15 @@
     "pageSize": "20",
     "restSaveToken": "http://ltkblue.dothome.co.kr/app/saveToken",
     "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
-    "reviewLink": "https://play.google.com/store/apps/details?id="
-    ,"dbType" : "github"
-    ,"gitHubYtListPageUrl" : "https://goldsnake.github.io/ytdb/"
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "dbType": "github",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "testDeviceList": [
+        {
+            "deviceId": "DACCBE501231C13E81966C541B0FB175"
+        },
+        {
+            "deviceId": "AB5AE6965CDB1AC63B57AD8D7FE2571C"
+        }
+    ]
 }

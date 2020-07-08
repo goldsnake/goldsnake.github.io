@@ -10,4 +10,6 @@
     "restSaveToken": "http://ltkblue.dothome.co.kr/app/saveToken",
     "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
     "reviewLink": "https://play.google.com/store/apps/details?id="
+    ,"dbType" : "gitHub"
+    ,"gitHubYtListPageUrl" : "https://goldsnake.github.io/ytdb/"
 }

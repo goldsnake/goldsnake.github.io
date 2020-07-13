@@ -1,0 +1,23 @@
+ {
+    "mainId": "ca-app-pub-3940256099942544/1033173712",
+    "bannerId": "ca-app-pub-3940256099942544/6300978111",
+    "dialogId": "ca-app-pub-3940256099942544/6300978111",
+    "marketVersion": "",
+    "onlyMyAd": "1",
+    "package": "com.goldsnake.goodstory",
+    "pageSize": "20",
+    "restSaveToken": "http://ltkblue.dothome.co.kr/app/saveToken",
+    "webViewCacheMode" : "0"
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "webViewUrl": "http://goldsnake.dothome.co.kr/",
+    "webViewUrlTest": "http://goldsnake.dothome.co.kr/",
+    "web_view_url_test": "http://192.168.1.5:8080/",
+    "testDeviceList": [
+        {
+            "deviceId": "DACCBE501231C13E81966C541B0FB175"
+        },
+        {
+            "deviceId": "AB5AE6965CDB1AC63B57AD8D7FE2571C"
+        }
+    ]
+}

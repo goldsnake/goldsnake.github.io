@@ -7,7 +7,7 @@
     "onlyMyAd": "1",
     "package": "com.goldsnake.misstrot2",
     "pageSize": "20",
-    "restSaveToken": "http://ltkblue.dothome.co.kr/app/saveToken",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
     "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
     "reviewLink": "https://play.google.com/store/apps/details?id=",
     "dbType": "github",

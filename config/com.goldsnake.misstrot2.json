@@ -12,7 +12,7 @@
     "reviewLink": "https://play.google.com/store/apps/details?id=",
     "dbType": "github",
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
-    "listInit":"N",
+    "listInit":"Y",
     "testDeviceList": [
         {
             "deviceId": "DACCBE501231C13E81966C541B0FB175"

@@ -4,7 +4,7 @@
     "dialogId": "ca-app-pub-2792310748218822/1738804186",
     "listMode": "file",
     "marketVersion": "1.0.3",
-    "onlyMyAd": "1",
+    "onlyMyAd": "0",
     "package": "com.goldsnake.ytplayer1",
     "pageSize": "20",
     "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",

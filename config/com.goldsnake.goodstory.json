@@ -3,7 +3,7 @@
     "bannerId": "ca-app-pub-2792310748218822/7102811502",
     "dialogId": "ca-app-pub-2792310748218822/9539712084",
     "marketVersion": "1.0.6",
-    "onlyMyAd": "0",
+    "onlyMyAd": "1",
     "package": "com.goldsnake.goodstory",
     "pageSize": "20",
     "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",

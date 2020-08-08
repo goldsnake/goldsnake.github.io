@@ -23,11 +23,11 @@
     "tabInfo": [
         {
             "name": "임영웅",
-            "path": "임영웅"
+            "path": "임영웅.json"
         },
         {
             "name": "트로트test",
-            "path": "트로트"
+            "path": "트로트.json"
         },
         {
             "name": "보관함",

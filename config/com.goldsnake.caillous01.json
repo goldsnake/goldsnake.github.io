@@ -1,0 +1,37 @@
+{
+    "mainId": "ca-app-pub-2792310748218822/3355138186",
+    "bannerId": "ca-app-pub-2792310748218822/9728974846",
+    "dialogId": "ca-app-pub-2792310748218822/1738804186",
+    "listMode": "file",
+    "marketVersion": "1.0.3",
+    "onlyMyAd": "1",
+    "package": "com.goldsnake.caillous01",
+    "pageSize": "20",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "dbType": "github",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "testDeviceList": [
+        {
+            "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"
+        },
+        {
+            "deviceId": "79E27257A195E3D1A95CA3E73AD1D0EB"
+        }
+    ],
+    "tabInfo": [
+        {
+            "name": "까이유시즌1",
+            "path": "까이유시즌1.json"
+        },
+        {
+            "name": "쉐도잉",
+            "path": "트로트short.json"
+        },
+        {
+            "name": "보관함",
+            "path": ""
+        }
+    ]
+}

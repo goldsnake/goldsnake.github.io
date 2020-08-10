@@ -17,3 +17,13 @@
 10 -  아이콘 생성
 11 - .git 폴더 삭제
 12 - 카카오링크 개발자 페이지 등록, 해시값 등록, kakao_app_key manifest 등록
+
+13 - 인증서 만들기
+Build > Generate signed > APK next click
+keystorepath > create new > 파일명 지정 foo.jks
+1.key store password 설정
+2.key alias default
+3.key password 설정
+4.vaildaty 100
+5.country code ko
+6.key.properties foo.jks 경로 설정

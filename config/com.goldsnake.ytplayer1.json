@@ -13,6 +13,7 @@
     "reviewLink": "https://play.google.com/store/apps/details?id=",
     "dbType": "github",
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/testJson",
     "testDeviceList": [
         {
             "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"

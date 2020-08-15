@@ -3,7 +3,7 @@
     "bannerId": "ca-app-pub-2792310748218822/9728974846",
     "dialogId": "ca-app-pub-2792310748218822/1738804186",
     "listMode": "file",
-    "listInit": "Y",
+    "listInit": "N",
     "marketVersion": "1.0.3",
     "onlyMyAd": "1",
     "package": "com.goldsnake.ytplayer1",
@@ -13,6 +13,7 @@
     "reviewLink": "https://play.google.com/store/apps/details?id=",
     "dbType": "github",
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
     "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/testJson",
     "testDeviceList": [
         {

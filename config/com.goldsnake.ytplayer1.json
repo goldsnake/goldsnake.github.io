@@ -14,7 +14,7 @@
     "dbType": "github",
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
     "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
-    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/testJson",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
     "testDeviceList": [
         {
             "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"

@@ -1,8 +1,9 @@
 {
-    "mainId": "ca-app-pub-2792310748218822/5789729838",
-    "bannerId": "ca-app-pub-2792310748218822/9425722513",
-    "dialogId": "ca-app-pub-2792310748218822/8112640849",
+    "mainId": "ca-app-pub-5435724661817912/6011194879a",
+    "bannerId": "ca-app-pub-5435724661817912/2071949860a",
+    "dialogId": "ca-app-pub-5435724661817912/8445786522a",
     "listMode": "file",
+    "listInit": "Y",
     "marketVersion": "1.0.5",
     "onlyMyAd": "1",
     "package": "com.goldsnake.misstrot2",
@@ -12,8 +13,15 @@
     "reviewLink": "https://play.google.com/store/apps/details?id=",
     "dbType": "github",
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
-    "listInit": "N",
+    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
     "testDeviceList": [
+        {
+            "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"
+        },
+        {
+            "deviceId": "79E27257A195E3D1A95CA3E73AD1D0EB"
+        },
         {
             "deviceId": "DACCBE501231C13E81966C541B0FB175"
         },
@@ -23,12 +31,12 @@
     ],
     "tabInfo": [
         {
-            "name": "임영웅",
-            "path": "임영웅.json"
+            "name": "미스트롯2",
+            "path": "미스트롯2.json"
         },
         {
-            "name": "트로트test",
-            "path": "트로트.json"
+            "name": "미스트롯",
+            "path": "미스트롯.json"
         },
         {
             "name": "보관함"

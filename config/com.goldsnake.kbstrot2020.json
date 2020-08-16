@@ -1,0 +1,40 @@
+{
+    "mainId": "ca-app-pub-5435724661817912/4740461339a",
+    "bannerId": "ca-app-pub-5435724661817912/3838443207a",
+    "dialogId": "ca-app-pub-5435724661817912/8679706348a",
+    "listMode": "file",
+    "listInit": "Y",
+    "marketVersion": "1.0.0",
+    "onlyMyAd": "1",
+    "package": "com.goldsnake.kbstrot2020",
+    "pageSize": "20",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "dbType": "github",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
+    "testDeviceList": [
+        {
+            "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"
+        },
+        {
+            "deviceId": "79E27257A195E3D1A95CA3E73AD1D0EB"
+        }
+    ],
+    "tabInfo": [
+        {
+            "name": "트로트전국체전",
+            "path": "임영웅.json"
+        },
+        {
+            "name": "트로트",
+            "path": "트로트.json"
+        },
+        {
+            "name": "보관함",
+            "path": ""
+        }
+    ]
+}

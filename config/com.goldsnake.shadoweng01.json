@@ -1,0 +1,45 @@
+{
+    "mainId1": "aaaaaaaaa",
+    "bannerId1": "aaaaaaaa",
+    "dialogId1": "aaaaaaaa",
+    "listMode": "file",
+    "listInit": "Y",
+    "marketVersion": "1.0.0",
+    "onlyMyAd": "1",
+    "pageSize": "20",
+    "dbType": "github",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/getDataPageList",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "testDeviceList": [
+        {
+            "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"
+        },
+        {
+            "deviceId": "79E27257A195E3D1A95CA3E73AD1D0EB"
+        },
+        {
+            "deviceId": "DACCBE501231C13E81966C541B0FB175"
+        },
+        {
+            "deviceId": "AB5AE6965CDB1AC63B57AD8D7FE2571C"
+        }
+    ],
+    "tabInfo": [
+        {
+            "name": "시즌1",
+            "path": "까이유시즌1.json"
+        },
+        {
+            "name": "쉐도잉",
+            "path": "까이유1쉐도잉.json"
+        },
+        {
+            "name": "보관함",
+            "path": ""
+        }
+    ]
+}

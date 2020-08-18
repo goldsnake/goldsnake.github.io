@@ -1,7 +1,7 @@
 {
-    "mainId1": "ca-app-pub-7018673502328692/2602287114",
-    "bannerId1": "ca-app-pub-7018673502328692/6868835187",
-    "dialogId1": "ca-app-pub-7018673502328692/3915368781",
+    "mainId": "ca-app-pub-7018673502328692/2602287114",
+    "bannerId": "ca-app-pub-7018673502328692/6868835187",
+    "dialogId": "ca-app-pub-7018673502328692/3915368781",
     "listMode": "file",
     "listInit": "N",
     "marketVersion": "1.0.0",

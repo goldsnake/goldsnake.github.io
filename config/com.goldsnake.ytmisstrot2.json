@@ -16,16 +16,7 @@
     "reviewLink": "https://play.google.com/store/apps/details?id=",
     "testDeviceList": [
         {
-            "deviceId": "6C1291F30C48D37234F9A334DBA87ADB"
-        },
-        {
-            "deviceId": "79E27257A195E3D1A95CA3E73AD1D0EB"
-        },
-        {
-            "deviceId": "DACCBE501231C13E81966C541B0FB175"
-        },
-        {
-            "deviceId": "AB5AE6965CDB1AC63B57AD8D7FE2571C"
+            "deviceId": "BD3CFEC677C64B09C35903582829F683"
         }
     ],
     "tabInfo": [

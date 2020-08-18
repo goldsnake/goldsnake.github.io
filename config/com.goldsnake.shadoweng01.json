@@ -1,9 +1,9 @@
 {
-    "mainId1": "aaaaaaaaa",
-    "bannerId1": "aaaaaaaa",
-    "dialogId1": "aaaaaaaa",
+    "mainId": "ca-app-pub-7018673502328692/3630822973",
+    "bannerId": "ca-app-pub-7018673502328692/5555753514",
+    "dialogId": "ca-app-pub-7018673502328692/6256986311",
     "listMode": "file",
-    "listInit": "Y",
+    "listInit": "N",
     "marketVersion": "1.0.0",
     "onlyMyAd": "1",
     "pageSize": "20",

@@ -3,15 +3,15 @@
     "bannertest": "ca-app-pub-3940256099942544/6300978111",
     "adConfig": {
         "main": {
-            "id": "ca-app-pub-3940256099942544/1033173712",
+            "id": "ca-app-pub-2827557333752136/3191747383",
             "display": false
         },
         "banner": {
-            "id": "ca-app-pub-3940256099942544/6300978111",
+            "id": "ca-app-pub-2827557333752136/4171208011",
             "display": true
         },
         "dialog": {
-            "id": "ca-app-pub-3940256099942544/6300978111",
+            "id": "ca-app-pub-2827557333752136/4504829051",
             "display": true
         }
     },

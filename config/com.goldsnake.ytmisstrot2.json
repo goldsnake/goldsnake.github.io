@@ -1,7 +1,20 @@
 {
-    "mainId": "ca-app-pub-7018673502328692/2602287114",
-    "bannerId": "ca-app-pub-7018673502328692/6868835187",
-    "dialogId": "ca-app-pub-7018673502328692/3915368781",
+    "maintest": "ca-app-pub-3940256099942544/1033173712",
+    "bannertest": "ca-app-pub-3940256099942544/6300978111",
+    "adConfig": {
+        "main": {
+            "id": "ca-app-pub-3940256099942544/1033173712",
+            "display": false
+        },
+        "banner": {
+            "id": "ca-app-pub-3940256099942544/6300978111",
+            "display": true
+        },
+        "dialog": {
+            "id": "ca-app-pub-3940256099942544/6300978111",
+            "display": true
+        }
+    },
     "listMode": "file",
     "listInit": "Y",
     "marketVersion": "1.0.0",

@@ -2,6 +2,20 @@
     "mainId": "ca-app-pub-2827557333752136/3191747383",
     "bannerId": "ca-app-pub-2827557333752136/4171208011",
     "dialogId": "ca-app-pub-2827557333752136/4504829051",
+    "adConfig": {
+        "main": {
+            "id": "ca-app-pub-2827557333752136/3191747383",
+            "display": false
+        },
+        "banner": {
+            "id": "ca-app-pub-2827557333752136/4171208011",
+            "display": false
+        },
+        "dialog": {
+            "id": "ca-app-pub-2827557333752136/4504829051",
+            "display": false
+        }
+    },
     "listMode": "file",
     "listInit": "Y",
     "marketVersion": "1.0.0",

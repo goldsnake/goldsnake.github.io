@@ -1,0 +1,48 @@
+{
+    "maintest": "ca-app-pub-3940256099942544/1033173712",
+    "bannertest": "ca-app-pub-3940256099942544/6300978111",
+    "adConfig": {
+        "main": {
+            "id": "ca-app-pub-3940256099942544/1033173712",
+            "display": false
+        },
+        "banner": {
+            "id": "ca-app-pub-3940256099942544/6300978111",
+            "display": false
+        },
+        "dialog": {
+            "id": "ca-app-pub-3940256099942544/6300978111",
+            "display": false
+        }
+    },
+    "listMode": "file",
+    "listInit": "Y",
+    "marketVersion": "1.0.0",
+    "onlyMyAd": "1",
+    "pageSize": "20",
+    "dbType": "github",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/dummyList",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "testDeviceList": [
+        {
+            "deviceId": "BD3CFEC677C64B09C35903582829F683"
+        }
+    ],
+    "tabInfo": [
+        {
+            "name": "미스트롯2,1",
+            "path": "미스트롯2,1.json"
+        },
+        {
+            "name": "인기 트로트",
+            "path": "트로트.json"
+        },
+        {
+            "name": "보관함"
+        }
+    ]
+}

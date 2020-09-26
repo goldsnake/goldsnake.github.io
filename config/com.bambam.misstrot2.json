@@ -12,7 +12,7 @@
         },
         "dialog": {
             "id": "ca-app-pub-3940256099942544/6300978111",
-            "display": false
+            "display": true
         }
     },
     "listMode": "file",

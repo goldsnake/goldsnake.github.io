@@ -4,21 +4,21 @@
     "adConfig": {
         "main": {
             "id": "ca-app-pub-4833375760212176/1386566883",
-            "display": true
+            "display": false 
         },
         "banner": {
             "id": "ca-app-pub-4833375760212176/3359668696",
             "display": true
         },
         "dialog": {
-            "id": "ca-app-pub-3940256099942544/6300978111",
+            "id": "ca-app-pub-4833375760212176/9424306174",
             "display": true
         }
     },
     "listMode": "file",
     "listInit": "Y",
     "marketVersion": "1.0.0",
-    "onlyMyAd": "1",
+    "onlyMyAd": "2",
     "pageSize": "20",
     "dbType": "github",
     "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",

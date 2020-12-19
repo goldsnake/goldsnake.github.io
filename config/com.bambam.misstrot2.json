@@ -4,14 +4,32 @@
     "adConfig": {
         "main": {
             "id": "ca-app-pub-4833375760212176/1386566883",
-            "display": false 
+            "display": false
         },
         "banner": {
-            "id": "ca-app-pub-3940256099942544/6300978111",
+            "adList": [
+                {
+                    "adChannel": "adMob",
+                    "id": "ca-app-pub-3940256099942544/6300978111"
+                },
+                {
+                    "adChannel": "adFit",
+                    "id": "DAN-gyQpyqQVjzlGWaj1"
+                }
+            ],
             "display": true
         },
         "dialog": {
-            "id": "ca-app-pub-4833375760212176/9424306174",
+            "adList": [
+                {
+                    "adChannel": "adMob",
+                    "id": "ca-app-pub-4833375760212176/9424306174"
+                },
+                {
+                    "adChannel": "adFit",
+                    "id": "DAN-sTHcV3qhtXKA34B6"
+                }
+            ],
             "display": true
         }
     },
@@ -27,7 +45,7 @@
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
     "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
     "reviewLink": "https://play.google.com/store/apps/details?id=",
-    "testDeviceChar":"setTestDeviceIds(Arrays.asList(",
+    "testDeviceChar": "setTestDeviceIds(Arrays.asList(",
     "testDeviceList": [
         {
             "deviceId": "72C047BE23600E23E6C8B06D08671065"

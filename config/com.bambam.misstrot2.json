@@ -31,10 +31,7 @@
         },
         "dialog": {
             "adList": [
-                {
-                    "adChannel": "adMob",
-                    "id": "ca-app-pub-4833375760212176/9424306174"
-                },
+              
                 {
                     "adChannel": "adFit",
                     "id": "DAN-sTHcV3qhtXKA34B6"
@@ -45,8 +42,8 @@
     },
     "listMode": "file",
     "listInit": "Y",
-    "marketVersion": "1.0.0",
-    "onlyMyAd": "1",
+    "marketVersion": "1.0.1",
+    "onlyMyAd": "0",
     "pageSize": "20",
     "dbType": "github",
     "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",

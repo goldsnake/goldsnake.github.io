@@ -12,7 +12,7 @@ else
 
     git config --global user.email "ltkblue@gmail.com"  
 
-#    git config --global credential.helper cache
+    git config --global credential.helper store
 
 #    git remote add origin https://github.com/sunghojang/QT_TCPIP.git
 

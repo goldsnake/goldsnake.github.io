@@ -43,7 +43,7 @@
     "listMode": "file",
     "listInit": "Y",
     "marketVersion": "1.0.1",
-    "onlyMyAd": "1",
+    "onlyMyAd": "0",
     "pageSize": "20",
     "dbType": "github",
     "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",

@@ -1,0 +1,74 @@
+{
+    "maintest": "ca-app-pub-3940256099942544/1033173712",
+    "bannertest": "ca-app-pub-3940256099942544/6300978111",
+    "adConfig": {
+        "main": {
+            "id": "ca-app-pub-4833375760212176/1386566883",
+            "display": false 
+        },
+        "banner": {
+            "id": "ca-app-pub-4833375760212176/3359668696",
+            "display": true
+        },
+        "dialog": {
+            "id": "ca-app-pub-4833375760212176/9424306174",
+            "display": true
+        }
+    },
+    "multiAdConfig": {
+        "main": {
+            "id": "ca-app-pub-4833375760212176/1386566883",
+            "display": false
+        },
+        "banner": {
+            "adList": [
+                {
+                    "adChannel": "adFit",
+                    "id": "DAN-gyQpyqQVjzlGWaj1"
+                }
+            ],
+            "display": false
+        },
+        "dialog": {
+            "adList": [
+              
+                {
+                    "adChannel": "adFit",
+                    "id": "DAN-sTHcV3qhtXKA34B6"
+                }
+            ],
+            "display": false
+        }
+    },
+    "listMode": "file",
+    "listInit": "Y",
+    "marketVersion": "1.0.1",
+    "onlyMyAd": "0",
+    "pageSize": "20",
+    "dbType": "github",
+    "restSaveToken": "http://ltkblue.asuscomm.com:81/ci/app/saveToken",
+    "myAdLink": "http://ltkblue.asuscomm.com:81/ci/ad/market",
+    "restYtListPageUrl": "http://ltkblue.asuscomm.com:81/ci/yt/dummyList",
+    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
+    "reviewLink": "https://play.google.com/store/apps/details?id=",
+    "testDeviceChar": "setTestDeviceIds(Arrays.asList(",
+    "testDeviceList": [
+        {
+            "deviceId": "72C047BE23600E23E6C8B06D08671065"
+        },
+        {
+            "deviceId": "7162E2A7F092187EFF941FACFAD0B4C9"
+        }
+    ],
+    "tabInfo": [
+        {
+            "name": "미스터트롯2",
+            "path": "미스터트롯2.json"
+        },
+        {
+            "name": "인기 트로트",
+            "path": "트로트.json"
+        }
+    ]
+}

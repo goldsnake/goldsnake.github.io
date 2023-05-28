@@ -5,7 +5,7 @@
     "adConfig": {
         "main": {
             "id": "ca-app-pub-3940256099942544/1033173712",
-            "display": true
+            "display": false
         },
         "switchApp": {
             "id": "ca-app-pub-3940256099942544/3419835294",

@@ -9,15 +9,15 @@
         },
         "switchApp": {
             "id": "ca-app-pub-3940256099942544/3419835294",
-            "display": true
+            "display": false
         },
         "banner": {
             "id": "ca-app-pub-3940256099942544/6300978111",
-            "display": true
+            "display": false
         },
         "dialog": {
             "id": "ca-app-pub-4833375760212176/9424306174",
-            "display": true
+            "display": false
         }
     },
     "listMode": "file",

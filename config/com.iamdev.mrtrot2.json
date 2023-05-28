@@ -1,43 +1,23 @@
 {
     "maintest": "ca-app-pub-3940256099942544/1033173712",
     "bannertest": "ca-app-pub-3940256099942544/6300978111",
+    "switchtest": "ca-app-pub-3940256099942544/3419835294",
     "adConfig": {
         "main": {
-            "id": "ca-app-pub-4833375760212176/1386566883",
-            "display": false 
+            "id": "ca-app-pub-3940256099942544/1033173712",
+            "display": true
+        },
+        "switchApp": {
+            "id": "ca-app-pub-3940256099942544/3419835294",
+            "display": true
         },
         "banner": {
-            "id": "ca-app-pub-4833375760212176/3359668696",
+            "id": "ca-app-pub-3940256099942544/6300978111",
             "display": true
         },
         "dialog": {
             "id": "ca-app-pub-4833375760212176/9424306174",
             "display": true
-        }
-    },
-    "multiAdConfig": {
-        "main": {
-            "id": "ca-app-pub-4833375760212176/1386566883",
-            "display": false
-        },
-        "banner": {
-            "adList": [
-                {
-                    "adChannel": "adFit",
-                    "id": "DAN-gyQpyqQVjzlGWaj1"
-                }
-            ],
-            "display": false
-        },
-        "dialog": {
-            "adList": [
-              
-                {
-                    "adChannel": "adFit",
-                    "id": "DAN-sTHcV3qhtXKA34B6"
-                }
-            ],
-            "display": false
         }
     },
     "listMode": "file",

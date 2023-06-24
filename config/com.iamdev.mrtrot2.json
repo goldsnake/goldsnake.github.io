@@ -26,6 +26,7 @@
     "onlyMyAd": "0",
     "pageSize": "20",
     "dbType": "github",
+    "tvProgramId": 4,
     "restSaveToken": "https://app.myforge.duckdns.org/ci/app/saveToken",
     "myAdLink": "https://app.myforge.duckdns.org/ci/ad/market",
     "restYtListPageUrl": "https://app.myforge.duckdns.org/ci/yt/dummyList",

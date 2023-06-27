@@ -53,6 +53,13 @@
         }
     ],
   "messages": {
-    "voteUpdateNotice": "투표하기 기능은 업데이트 하시고 이용 해주세요."
+    "tabTitleVote": "투표하기",
+    "tabTitleFavorite": "보관함",
+    "appUpdateString": "업데이트",
+    "voteActionString": "투표하기",
+    "moreVoteActionString": "투표 한번 더 하기",
+    "voteUpdateNotice": "투표하기 기능은 업데이트 하시고 이용해 주세요.",
+    "voteTomorrowNotice": "내일 투표 하세요~",
+    "choiceSingerString": "가수를 선택 하세요."
   }
 }

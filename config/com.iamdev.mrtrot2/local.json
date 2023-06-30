@@ -48,16 +48,15 @@
   ],
   "tabInfo": [
     {
-      "name": "투표하기",
-      "path": "투표하기"
-    },
-    {
       "name": "미스터트롯2",
       "path": "미스터트롯2.json"
     },
     {
       "name": "인기 트로트",
       "path": "트로트.json"
+    },
+    {
+      "name": "투표하기"
     }
   ],
   "voteLimitCount": 2,

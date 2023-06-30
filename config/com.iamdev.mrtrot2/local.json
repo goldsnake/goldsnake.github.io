@@ -1,60 +1,66 @@
 {
-    "maintest": "ca-app-pub-3940256099942544/1033173712",
-    "bannertest": "ca-app-pub-3940256099942544/6300978111",
-    "switchtest": "ca-app-pub-3940256099942544/3419835294",
-    "adConfig": {
-        "main": {
-            "id": "ca-app-pub-3940256099942544/1033173712",
-            "display": false
-        },
-        "switchApp": {
-            "id": "ca-app-pub-3940256099942544/3419835294",
-            "display": false
-        },
-        "banner": {
-            "id": "ca-app-pub-3940256099942544/6300978111",
-            "display": false
-        },
-        "dialog": {
-            "id": "ca-app-pub-4833375760212176/9424306174",
-            "display": false
-        }
+  "maintest": "ca-app-pub-3940256099942544/1033173712",
+  "bannertest": "ca-app-pub-3940256099942544/6300978111",
+  "switchtest": "ca-app-pub-3940256099942544/3419835294",
+  "adConfig": {
+    "main": {
+      "id": "ca-app-pub-3940256099942544/1033173712",
+      "display": false
     },
-    "listMode": "file",
-    "listInit": "Y",
-    "marketVersion": "1.0.1",
-    "onlyMyAd": "0",
-    "pageSize": "20",
-    "dbType": "github",
-    "tvProgramId": 4,
-    "restSaveToken": "https://app.myforge.duckdns.org/ci/app/saveToken",
-    "myAdLink": "https://app.myforge.duckdns.org/ci/ad/market",
-    "restYtListPageUrl": "https://app.myforge.duckdns.org/ci/yt/dummyList",
-    "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
-    "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
-    "reviewLink": "https://play.google.com/store/apps/details?id=",
-    "testDeviceChar": "setTestDeviceIds(Arrays.asList(",
-    "testDeviceList": [
-        {
-            "deviceId": "72C047BE23600E23E6C8B06D08671065"
-        },
-        {
-            "deviceId": "7162E2A7F092187EFF941FACFAD0B4C9"
-        }
-    ],
-    "tabInfo": [
-        {
-            "name": "투표하기"
-        },
-        {
-            "name": "미스터트롯2",
-            "path": "미스터트롯2.json"
-        },
-        {
-            "name": "인기 트로트",
-            "path": "트로트.json"
-        }
-    ],
+    "switchApp": {
+      "id": "ca-app-pub-3940256099942544/3419835294",
+      "display": false
+    },
+    "banner": {
+      "id": "ca-app-pub-3940256099942544/6300978111",
+      "display": false
+    },
+    "dialog": {
+      "id": "ca-app-pub-3940256099942544/6300978111",
+      "display": false
+    },
+    "quest": {
+      "id": "ca-app-pub-3940256099942544/5224354917",
+      "display": true
+    }
+  },
+  "listMode": "file",
+  "listInit": "Y",
+  "marketVersion": "1.0.1",
+  "onlyMyAd": "0",
+  "pageSize": "20",
+  "dbType": "github",
+  "tvProgramId": 4,
+  "restSaveToken": "https://app.myforge.duckdns.org/ci/app/saveToken",
+  "myAdLink": "https://app.myforge.duckdns.org/ci/ad/market",
+  "restYtListPageUrl": "https://app.myforge.duckdns.org/ci/yt/dummyList",
+  "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",
+  "gitHubYtListUpdateUrl": "https://goldsnake.github.io/ytdb/update/",
+  "reviewLink": "https://play.google.com/store/apps/details?id=",
+  "testDeviceChar": "setTestDeviceIds(Arrays.asList(",
+  "testDeviceList": [
+    {
+      "deviceId": "72C047BE23600E23E6C8B06D08671065"
+    },
+    {
+      "deviceId": "7162E2A7F092187EFF941FACFAD0B4C9"
+    }
+  ],
+  "tabInfo": [
+    {
+      "name": "투표하기",
+      "path": "투표하기"
+    },
+    {
+      "name": "미스터트롯2",
+      "path": "미스터트롯2.json"
+    },
+    {
+      "name": "인기 트로트",
+      "path": "트로트.json"
+    }
+  ],
+  "voteLimitCount": 2,
   "messages": {
     "tabTitleVote": "투표하기",
     "tabTitleFavorite": "보관함",

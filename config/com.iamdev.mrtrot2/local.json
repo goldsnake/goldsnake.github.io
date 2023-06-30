@@ -57,6 +57,9 @@
     },
     {
       "name": "투표하기"
+    },
+    {
+      "name": "보관함"
     }
   ],
   "voteLimitCount": 5,

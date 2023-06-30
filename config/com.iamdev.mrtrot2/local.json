@@ -59,7 +59,7 @@
       "name": "투표하기"
     }
   ],
-  "voteLimitCount": 2,
+  "voteLimitCount": 5,
   "messages": {
     "tabTitleVote": "투표하기",
     "tabTitleFavorite": "보관함",

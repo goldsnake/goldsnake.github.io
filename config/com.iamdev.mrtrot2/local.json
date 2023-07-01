@@ -31,7 +31,7 @@
   "size": {
     "tabFont": 26,
     "listTitleFont": 26,
-    "controlButton": 20
+    "controlButton": 40
   },
   "onlyMyAd": "0",
   "pageSize": "20",
@@ -76,6 +76,7 @@
     "voteUpdateNotice": "투표하기 기능은 업데이트 하시고 이용해 주세요.",
     "voteTomorrowNotice": "내일 투표 하세요~",
     "choiceSingerString": "가수를 선택 하세요.",
-    "emptyFavoriteString": "보관목록이 없습니다."
+    "emptyFavoriteString": "보관목록이 없습니다.",
+    "emptyListString": "목록이 없습니다."
   }
 }

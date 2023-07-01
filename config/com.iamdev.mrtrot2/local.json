@@ -28,6 +28,11 @@
   "listInit": "Y",
   "marketVersion": "1.0.1",
   "buildNumber": 11,
+  "size": {
+    "tabFont": 26,
+    "listTitleFont": 26,
+    "controlButton": 20
+  },
   "onlyMyAd": "0",
   "pageSize": "20",
   "dbType": "github",
@@ -70,6 +75,7 @@
     "moreVoteActionString": "투표 한번 더 하기",
     "voteUpdateNotice": "투표하기 기능은 업데이트 하시고 이용해 주세요.",
     "voteTomorrowNotice": "내일 투표 하세요~",
-    "choiceSingerString": "가수를 선택 하세요."
+    "choiceSingerString": "가수를 선택 하세요.",
+    "emptyFavoriteString": "보관목록이 없습니다."
   }
 }

@@ -31,7 +31,8 @@
   "size": {
     "tabFont": 26,
     "listTitleFont": 26,
-    "controlButton": 40
+    "controlButton": 40,
+    "buttonFont": 20
   },
   "onlyMyAd": "0",
   "pageSize": "20",

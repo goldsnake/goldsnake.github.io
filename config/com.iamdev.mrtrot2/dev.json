@@ -41,7 +41,7 @@
   "pageSize": "20",
   "dbType": "github",
   "tvProgramId": 4,
-  "VOTE_BASE_URL": "http://fast.myforge.duckdns.org",
+  "VOTE_BASE_URL": "https://app.fastapi.myforge.duckdns.org/vote_app",
   "TOKEN_BASE_URL": "https://app.myforge.duckdns.org",
   "myAdLink": "https://app.myforge.duckdns.org/ci/ad/market",
   "restYtListPageUrl": "https://app.myforge.duckdns.org/ci/yt/dummyList",
@@ -58,10 +58,6 @@
     }
   ],
   "tabInfo": [
-    {
-      "name": "미스터트롯2",
-      "path": "미스터트롯2.json"
-    },
     {
       "name": "인기 트로트",
       "path": "트로트.json"

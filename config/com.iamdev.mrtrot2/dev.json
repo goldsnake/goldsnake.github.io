@@ -26,8 +26,8 @@
   },
   "listMode": "file",
   "listInit": "Y",
-  "marketVersion": "1.0.1",
-  "buildNumber": 11,
+  "marketVersion": "1.0.2",
+  "buildNumber": 17,
   "size": {
     "tabFont": 26,
     "listTitleFont": 26,
@@ -40,7 +40,6 @@
   "onlyMyAd": "0",
   "pageSize": "20",
   "dbType": "github",
-  "tvProgramId": 4,
   "VOTE_BASE_URL": "https://app.fastapi.myforge.duckdns.org/vote_app",
   "TOKEN_BASE_URL": "https://app.myforge.duckdns.org",
   "myAdLink": "https://app.myforge.duckdns.org/ci/ad/market",
@@ -60,10 +59,29 @@
   "tabInfo": [
     {
       "name": "인기 트로트",
-      "path": "트로트.json"
+      "path": "트로트.json",
+      "use": true
     },
     {
-      "name": "보관함"
+      "name": "보관함",
+      "use": false
+    }
+  ],
+  "bottomNaviItem": [
+    {
+      "name": "음악",
+      "use": true,
+      "size": 0
+    },
+    {
+      "name": "투표",
+      "use": false,
+      "size": 0
+    },
+    {
+      "name": "보관함",
+      "use": true,
+      "size": 0
     }
   ],
   "voteLimitCount": 5,

@@ -46,7 +46,7 @@
     "onlyMyAd": "0",
     "pageSize": "20",
     "dbType": "github",
-    "restSaveToken": "https://app.myforge.duckdns.org",
+    "restSaveToken": "https://app.myforge.duckdns.org/ci/app/saveToken",
     "myAdLink": "https://app.myforge.duckdns.org/ci/ad/market",
     "restYtListPageUrl": "https://app.myforge.duckdns.org/ci/yt/dummyList",
     "gitHubYtListPageUrl": "https://goldsnake.github.io/ytdb/",

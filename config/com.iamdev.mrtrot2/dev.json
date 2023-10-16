@@ -58,8 +58,8 @@
   ],
   "tabInfo": [
     {
-      "name": "인기 트로트",
-      "path": "트로트.json",
+      "name": "TEST",
+      "path": "test.json",
       "use": true
     },
     {
